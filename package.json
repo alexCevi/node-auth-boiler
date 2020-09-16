@@ -1,0 +1,27 @@
+{
+  "name": "auth-boiler",
+  "version": "1.0.0",
+  "description": "This is a cool boiler plate for all ur node auth needs lolz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexCevi/node-auth-boiler.git"
+  },
+  "keywords": [
+    "mung"
+  ],
+  "author": "ALeX CeViCElOw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexCevi/node-auth-boiler/issues"
+  },
+  "homepage": "https://github.com/alexCevi/node-auth-boiler#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.5"
+  }
+}
